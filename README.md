@@ -1,5 +1,5 @@
   
-:heart: Programming | :Studinf | :blue_heart: Cyber Security
+:heart: Programming |  :blue_heart: Cyber Security
   
 I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 
@@ -11,7 +11,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 - 📫 How to reach me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/BrianArgel) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/BrianArgel) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/brian-argel-ponce-59530a167/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](bfargel@ineran.edu.co)
-|---|---|---|---|---|---|
+
 
 
 
