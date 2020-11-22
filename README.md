@@ -9,9 +9,9 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 
 - 🔭 I am currently studying and creating new projects for my portfolio
 - 🌱 I’m | Full Stack Web development | Cyber Security
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: There is always time. You just have to find it.
+- 👯 I really like linux and collaborate with your community <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+
 - 📫 How to reach me:
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/BrianArgel) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/BrianArgel) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/brian-argel-ponce-59530a167/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](bfargel@ineran.edu.co)
