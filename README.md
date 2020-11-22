@@ -1,10 +1,10 @@
   
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Programming | :Studinf | :blue_heart: Cyber Security
   
 I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 
-- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
-- 🌱 I’m currently learning Data Science | Full Stack Web development | Cyber Security
+- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Javascript.
+- 🌱 I’m | Full Stack Web development | Cyber Security
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
@@ -13,10 +13,9 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/BrianArgel) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/BrianArgel) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/brian-argel-ponce-59530a167/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](bfargel@ineran.edu.co)
 |---|---|---|---|---|---|
 
-----
+
 
   
-.    
    
 
 
