@@ -5,7 +5,7 @@
   
 :heart: Programming |  :blue_heart: Cyber Security
   
-I am a Final Year Computer Engineering Student at College of Engineering Chengannur. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
+I am a Final Year Computer Engineering Student. I love Machine Learning and trying to find more about Full Stack Web Development and Cyber Security. 
 
 - 🔭 I am currently studying and creating new projects for my portfolio
 - 🌱 I’m | Full Stack Web development | Cyber Security
